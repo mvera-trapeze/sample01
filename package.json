@@ -1,0 +1,14 @@
+{
+  "name"          : "sample01",
+  "description"   : "Ender workshop sample app",
+  "url"           : "http://trapeze.com",
+  "keywords"      : ["util", "functional", "server", "client", "browser"],
+  "author"        : "Trapeze",
+  "contributors"  : [],
+  "dependencies"  : {
+    "backbone"  : ">=0.9.1"
+  },
+  "lib"           : ".",
+  "main"          : "sample01.js",
+  "version"       : "1.0.0"
+}
